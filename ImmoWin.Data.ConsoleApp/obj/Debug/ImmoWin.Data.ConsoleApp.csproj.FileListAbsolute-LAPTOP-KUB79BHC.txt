@@ -1,0 +1,39 @@
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.ConsoleApp.exe.config
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.ConsoleApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.ConsoleApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\bin\Debug\Odisee.Common.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\bin\Debug\Odisee.Common.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.CopyComplete
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.ConsoleApp.exe.config
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.ConsoleApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.ConsoleApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\bin\Debug\Odisee.Common.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\bin\Debug\Odisee.Common.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.CopyComplete
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.ConsoleApp.exe.config
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.ConsoleApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.ConsoleApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\bin\Debug\Odisee.Common.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\bin\Debug\ImmoWin.Data.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\bin\Debug\Odisee.Common.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.csproj.CopyComplete
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.Data.ConsoleApp\obj\Debug\ImmoWin.Data.ConsoleApp.pdb

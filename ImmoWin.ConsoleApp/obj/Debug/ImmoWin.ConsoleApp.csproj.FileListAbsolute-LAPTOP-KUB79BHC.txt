@@ -1,0 +1,3 @@
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.ConsoleApp\obj\Debug\ImmoWin.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.ConsoleApp\obj\Debug\ImmoWin.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.ConsoleApp\obj\Debug\ImmoWin.ConsoleApp.csproj.CoreCompileInputs.cache

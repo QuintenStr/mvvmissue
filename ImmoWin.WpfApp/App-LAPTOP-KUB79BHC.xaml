@@ -1,0 +1,40 @@
+﻿<Application x:Class="ImmoWin.WpfApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ImmoWin.WpfApp"
+             xmlns:views="clr-namespace:ImmoWin.WpfApp.Views"
+             xmlns:viewmodels="clr-namespace:ImmoWin.WpfApp.ViewModels"
+             StartupUri="Views/ImmoWinView.xaml">
+    <Application.Resources>
+
+        <DataTemplate DataType="{x:Type viewmodels:KlantenViewModel}">
+            <views:KlantenView></views:KlantenView>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:KlantenListViewModel}">
+            <views:KlantenListView></views:KlantenListView>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:KlantDetailViewModel}">
+            <views:KlantDetailView></views:KlantDetailView>
+        </DataTemplate>
+        <!--<DataTemplate DataType="{x:Type viewmodels:AdresDataViewModel}">
+            <views:AdresDataView></views:AdresDataView>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:KlantDataViewModel}">
+            <views:KlantDataView></views:KlantDataView>
+        </DataTemplate>-->
+
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="3"></Setter>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="3"></Setter>
+        </Style>
+        <Style x:Key="IdTextBox" TargetType="TextBox">
+            <Setter Property="Visibility" Value="{Binding RelativeSource={RelativeSource AncestorType=UserControl, AncestorLevel=3}, Path=DataContext.IdVisibility}"></Setter>
+        </Style>
+        <Style x:Key="IdTextBlock" TargetType="TextBlock">
+            <Setter Property="Visibility" Value="{Binding RelativeSource={RelativeSource AncestorType=UserControl, AncestorLevel=3}, Path=DataContext.IdVisibility}"></Setter>
+        </Style>
+
+    </Application.Resources>
+</Application>

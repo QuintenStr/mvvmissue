@@ -1,0 +1,206 @@
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.AssemblyReference.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.lref
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\App.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe.config
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.g.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.Properties.Resources.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.GenerateResource.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\bin\Debug\Odisee.Common.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\bin\Debug\Odisee.Common.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CopyComplete
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin\ImmoWin.WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe.config
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\bin\Debug\Odisee.Common.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\bin\Debug\Odisee.Common.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.AssemblyReference.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\App.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.lref
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.g.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.Properties.Resources.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.GenerateResource.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CopyComplete
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe.config
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\bin\Debug\Odisee.Common.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\bin\Debug\Odisee.Common.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.AssemblyReference.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\App.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.lref
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.g.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.Properties.Resources.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.GenerateResource.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CopyComplete
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\obj\Debug\App.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\bin\Debug\ImmoWin.Data.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM voorbereiding - Copy\ImmoWin.WpfApp\bin\Debug\ImmoWin.Data.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe.config
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.Data.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\Odisee.Common.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.Data.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\Odisee.Common.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.AssemblyReference.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\AdresDataView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantDataView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\App.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.lref
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\App.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\AdresDataView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantDataView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.g.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.Properties.Resources.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.GenerateResource.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CopyComplete
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe.config
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.Data.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\Odisee.Common.dll
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\ImmoWin.Data.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\bin\Debug\Odisee.Common.pdb
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.AssemblyReference.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\AdresDataView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantDataView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\App.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.lref
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\App.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\AdresDataView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantDataView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.baml
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.g.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.Properties.Resources.resources
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.GenerateResource.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CopyComplete
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.exe
+C:\Users\serge.vancleynenbreu\OneDrive - ODISEE\Bureaublad\AAD\ImmoWin - Opdracht MVVM KlantDetailView\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.pdb
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe.config
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.exe
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\ImmoWin.WpfApp.pdb
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\ImmoWin.Data.dll
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\Odisee.Common.dll
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\EntityFramework.dll
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\ImmoWin.Data.pdb
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\ImmoWin.Data.dll.config
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\Odisee.Common.pdb
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\EntityFramework.xml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.AssemblyReference.cache
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\AdresDataView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantDataView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\App.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.cache
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp_MarkupCompile.lref
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\App.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\AdresDataView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\AdresDetailView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\ImmoWinView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantDataView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantDetailView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantenListView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantenView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.g.resources
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.Properties.Resources.resources
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.GenerateResource.cache
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.CopyComplete
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.exe
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.pdb
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantNieuwView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\KlantNieuwView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\AdresNieuwDataView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\AdresNieuwDataView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\WoningenView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\WoningenView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\WoningenNieuwView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\WoningenNieuwView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\WoningenListView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\WoningenListView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\WoningDetailView.g.cs
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\Views\WoningDetailView.baml
+C:\Users\quint\OneDrive - ODISEE\2022 - 2023\AAD\ImmoWin\ImmoWin.WpfApp\obj\Debug\ImmoWin.WpfApp.csproj.SuggestedBindingRedirects.cache
